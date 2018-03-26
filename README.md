@@ -1,5 +1,5 @@
 # darknet-yolo-
-for cars and pedestrains
+For car and pedestrain recognition
 
 This repository is based on https://github.com/pjreddie/darknet. More information about the yolo see from https://pjreddie.com/darknet/yolo/.
 
