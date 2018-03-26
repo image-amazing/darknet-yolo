@@ -20,4 +20,5 @@ For the KITTI Vision Benchmark Suite, I just need the four categories whcih are 
 
 Second, I create the yolo-car-voc.cfg and car-voc.data in the cfg folder. In the data folder, I add the car-voc.name, car-voc_training.txt and car-voc_validation.txt.
 
+The pre-trained weights for the training part: http://pjreddie.com/media/files/darknet19_448.conv.23.
 
