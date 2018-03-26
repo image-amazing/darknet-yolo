@@ -1,0 +1,5 @@
+classes= 2
+train  = data/car_2_training.txt
+valid  = data/car_2_validation.txt
+names = data/car_2.names
+backup = backup
