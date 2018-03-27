@@ -1,5 +1,7 @@
-# darknet-yolo-
+# darknet-yolo
 For car and pedestrain recognition.
+
+![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 This repository is forked from https://github.com/pjreddie/darknet. More information about the yolo see from https://pjreddie.com/darknet/yolo/.
 
