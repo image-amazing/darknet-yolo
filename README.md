@@ -13,7 +13,7 @@ How to generate the label files for the dataset:
 
 Because the Pascal VOC Data and the dataset from the KITTI Vision Benchmark Suite already have the label files, it just can use these files to generate the new label files for this project.
 
-For the Pascal VOC Data, it can use [scripts/voc_label.py] to convert existing VOC annotations to darknet format. I just need the three categories which are bus, car and person from the label files and generate the new label filesbuild by using scripts/generate_voc_label.py.
+For the Pascal VOC Data, it can use [[https://scripts/voc_label.py]] to convert existing VOC annotations to darknet format. I just need the three categories which are bus, car and person from the label files and generate the new label filesbuild by using scripts/generate_voc_label.py.
 
 
 For the KITTI Vision Benchmark Suite, I just need the four categories whcih are Car, Truck, Van, Pedestrain and Person_sitting and generate the new label files by using scripts/generate_kitti_label.py.
